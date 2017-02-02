@@ -28,9 +28,9 @@ Alireza: 3-4 PM on Tue & Thu in UTM MLDS, Block PA3.
   <thead>
     <tr>
       <th style="width: 5%;">Date</th>
-      <th style="width: 17%;">Speaker</th>
+      <th style="width: 17%;">Instructor</th>
       <th style="width: 50%;">Readings</th>
-      <th style="width: 20%;">Talk</th>
+      <th style="width: 20%;">Topic</th>
       <th style="width: 8%;">Deadlines</th>
     </tr>
   </thead>
